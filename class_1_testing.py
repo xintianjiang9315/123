@@ -14,3 +14,5 @@ print(x*2)
 print('No more math.')
 
 print("zyx")
+
+print("xintianjiang is hungry")
